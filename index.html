@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#eee2cc">
+<meta name="description" content="北京市海淀区残疾人联合会主办的大美海淀 AI 数字画册。">
+<title>大美海淀 AI 数字画册</title>
+<link rel="stylesheet" href="gallery.css?v=artist-index">
+<link rel="icon" href="assets/design/logo.png">
+<script defer src="catalog.js"></script>
+<script defer src="gallery.js?v=artist-index"></script>
+</head>
+<body>
+<a class="skip" href="#intro">跳到展览内容</a>
+<header class="cover" id="top">
+  <div class="cover-title">
+    <h1><img src="assets/design/title.png" alt="大美海淀"></h1>
+    <p class="subtitle"><span>AI</span> 数字画册</p>
+    <p class="organizer">北京市海淀区残疾人联合会 主办</p>
+  </div>
+</header>
+<nav class="navigation" aria-label="画册目录">
+  <a class="brand" href="#top" aria-label="返回封面"><img src="assets/design/logo.png" alt="" width="29" height="29"><span>大美海淀</span></a>
+  <div class="nav-links">
+    <a href="#intro">项目介绍</a><a href="#films">艺海拾贝</a><a href="#haidian">海淀印记</a><a href="#students">学员专栏</a>
+  </div>
+</nav>
+<main>
+  <section class="chapter intro" id="intro" aria-labelledby="intro-title">
+    <div class="wrap intro-layout">
+      <header class="chapter-heading">
+        <p class="chapter-number" aria-hidden="true">01</p>
+        <h2 id="intro-title">项目介绍</h2>
+      </header>
+      <div id="intro-video"></div>
+    </div>
+  </section>
+  <section class="chapter films" id="films" aria-labelledby="films-title">
+    <div class="wrap">
+      <header class="chapter-heading"><p class="chapter-number" aria-hidden="true">02</p><h2 id="films-title">艺海拾贝</h2></header>
+      <div class="film-group">
+        <h3 class="subheading">学员感悟</h3>
+        <div class="video-grid" id="reflections"></div>
+      </div>
+      <div class="film-group">
+        <h3 class="subheading">学习花絮</h3>
+        <div class="video-grid behind-grid" id="behind"></div>
+      </div>
+    </div>
+  </section>
+  <section class="chapter haidian" id="haidian" aria-labelledby="haidian-title">
+    <div class="wrap">
+      <header class="chapter-heading"><p class="chapter-number" aria-hidden="true">03</p><h2 id="haidian-title">海淀印记</h2></header>
+      <div id="themes"></div>
+    </div>
+  </section>
+  <section class="chapter students" id="students" aria-labelledby="students-title">
+    <div class="wrap">
+      <header class="chapter-heading"><p class="chapter-number" aria-hidden="true">04</p><h2 id="students-title">学员专栏</h2></header>
+      <details class="artist-directory"><summary>按姓名查看</summary><div id="artist-index"></div></details>
+      <div id="portfolios"></div>
+    </div>
+  </section>
+</main>
+<footer class="footer"><img src="assets/design/logo.png" alt="" width="33" height="33"><p>北京市海淀区残疾人联合会 主办</p><a href="#top">返回封面 ↑</a></footer>
+<dialog id="viewer" aria-labelledby="viewer-title">
+  <div class="viewer-bar"><h2 id="viewer-title"></h2><button class="close" type="button" aria-label="关闭">×</button></div>
+  <div id="viewer-content"></div>
+</dialog>
+<noscript><p class="wrap">请启用 JavaScript 以浏览画册作品和视频。</p></noscript>
+</body>
+</html>

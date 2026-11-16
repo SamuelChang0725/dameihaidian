@@ -1,0 +1,465 @@
+/* Web fonts for exhibition headings and artist names. */
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-104.woff2') format('woff2');
+  unicode-range: U+548F
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-105.woff2') format('woff2');
+  unicode-range: U+7D6E
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-107.woff2') format('woff2');
+  unicode-range: U+62FE, U+6DC0
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-108.woff2') format('woff2');
+  unicode-range: U+609F
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-110.woff2') format('woff2');
+  unicode-range: U+6B8B
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-111.woff2') format('woff2');
+  unicode-range: U+58A8, U+59D3, U+75BE
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-112.woff2') format('woff2');
+  unicode-range: U+8BD7
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-113.woff2') format('woff2');
+  unicode-range: U+5C01, U+8D1D, U+8DF3
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-114.woff2') format('woff2');
+  unicode-range: U+542F, U+680F, U+6D4F
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-115.woff2') format('woff2');
+  unicode-range: U+4E60, U+5370, U+6309, U+753B, U+8FD4, U+95ED, U+9999
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-116.woff2') format('woff2');
+  unicode-range: U+4E94, U+529E, U+56ED, U+5C71, U+7ECD, U+827A, U+89C8, U+9879
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-117.woff2') format('woff2');
+  unicode-range: U+4EAC, U+4ECB, U+5149, U+518C, U+5317, U+5458, U+5B57, U+5BB9, U+5C55, U+5F71, U+611F, U+67E5, U+6D77, U+76EE, U+82B1, U+8BB0, U+9891
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-118.woff2') format('woff2');
+  unicode-range: U+4E09, U+4E13, U+4E3B, U+4EBA, U+4EE5, U+4F1A, U+4F5C, U+5173, U+5185, U+5230, U+533A, U+5408, U+540D, U+548C, U+54C1, U+56DE, U+5927, U+5B66, U+5E02, U+5F55, U+6570, U+7528, U+770B, U+7F8E, U+8054, U+89C6, U+8BF7, U+9762
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-regular-subset-119.woff2') format('woff2');
+  unicode-range: U+3002, U+7684
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-42.woff2') format('woff2');
+  unicode-range: U+81E7
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-57.woff2') format('woff2');
+  unicode-range: U+709C
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-73.woff2') format('woff2');
+  unicode-range: U+5CE5
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-101.woff2') format('woff2');
+  unicode-range: U+95EB
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-103.woff2') format('woff2');
+  unicode-range: U+6615
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-105.woff2') format('woff2');
+  unicode-range: U+5C60, U+6DD1
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-106.woff2') format('woff2');
+  unicode-range: U+840D
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-107.woff2') format('woff2');
+  unicode-range: U+5146, U+59DA, U+658C, U+65ED, U+742A, U+848B, U+971E, U+9B4F
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-108.woff2') format('woff2');
+  unicode-range: U+5CB3, U+6D9B, U+6F58
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-109.woff2') format('woff2');
+  unicode-range: U+5FE0, U+6D2A, U+71D5, U+73B2, U+857E, U+9676
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-110.woff2') format('woff2');
+  unicode-range: U+4FCA, U+6731, U+6C88, U+7AF9, U+8463, U+9896
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-111.woff2') format('woff2');
+  unicode-range: U+52C7, U+5A1C, U+5B8B, U+5F90, U+6676, U+6881, U+6CC9, U+8273, U+8D75, U+9F84
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-112.woff2') format('woff2');
+  unicode-range: U+4F1F, U+5175, U+51E1, U+51E4, U+5434, U+5B59, U+6770, U+6865, U+6885, U+6DA6
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-113.woff2') format('woff2');
+  unicode-range: U+51AC, U+5218, U+521A, U+5DDD, U+5DE6, U+6000, U+654F, U+6768, U+7389, U+7530, U+79CB, U+96C4, U+9759, U+987A, U+9F50
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-114.woff2') format('woff2');
+  unicode-range: U+5170, U+677E, U+6CE2, U+8363, U+8D35, U+94C1, U+9648, U+97E9
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-115.woff2') format('woff2');
+  unicode-range: U+4E3D, U+4E49, U+536B, U+5FB7, U+5FD7, U+627F, U+674E, U+9633, U+9EC4
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-116.woff2') format('woff2');
+  unicode-range: U+4E91, U+5065, U+5411, U+5B9D, U+5F20, U+6625, U+6C11, U+738B, U+7EA2, U+82F1, U+9A6C
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-117.woff2') format('woff2');
+  unicode-range: U+4EAC, U+4F55, U+4FDD, U+5229, U+534E, U+5EFA, U+653E, U+7231
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-118.woff2') format('woff2');
+  unicode-range: U+4E8E, U+56FD, U+5C0F, U+5E73, U+6587, U+65B9, U+6B63, U+751F, U+91D1, U+957F
+}
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('assets/fonts/lxgwwenkai-bold-subset-119.woff2') format('woff2');
+  unicode-range: U+4E00, U+6709
+}
+
+:root {
+  color-scheme: light;
+  --ink: #25221e;
+  --paper: #f3ebdf;
+  --muted: #63564a;
+  --vermillion: #8c3728;
+  --line: #82705d4d;
+  --serif: "LXGW WenKai", "Kaiti SC", KaiTi, STKaiti, "Songti SC", SimSun, "Noto Serif CJK SC", serif;
+  --body: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--body); }
+a { color: inherit; }
+button { font: inherit; color: inherit; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid #9e432e; outline-offset: 5px; }
+img { display: block; max-width: 100%; }
+.skip { position: fixed; top: 10px; left: 12px; z-index: 5; padding: .7rem; background: white; transform: translateY(-150%); }
+.skip:focus { transform: none; }
+.cover { position: relative; aspect-ratio: 16/9; background: #ebd7b3 url("assets/design/cover.webp") center / cover no-repeat; }
+.cover-title { position: absolute; top: 14.7%; left: 6.4%; width: 34%; color: #25201a; }
+.cover h1 { margin: 0 0 clamp(.3rem,1.35vw,1.4rem); }
+.cover h1 img { width: 100%; }
+.subtitle { margin: 0 0 .12em; font: 400 clamp(1.1rem,3.2vw,3.65rem)/1.15 var(--serif); letter-spacing: .1em; }
+.subtitle span { font: .86em Georgia, serif; }
+.organizer { margin: .55em 0 0; font: clamp(.62rem,1.28vw,1.45rem)/1.4 var(--serif); letter-spacing: .04em; }
+.navigation { position: sticky; top: 0; z-index: 2; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .65rem max(4vw,calc((100% - 1200px)/2)); background: #f4ecdf; border-bottom: 1px solid var(--line); }
+.navigation a { text-decoration: none; }
+.brand { display: flex; flex-shrink: 0; align-items: center; gap: .55rem; font: 1.25rem var(--serif); }
+.brand img { object-fit: contain; }
+.nav-links { display: flex; align-items: center; gap: clamp(.6rem,2.5vw,2.3rem); font-size: .91rem; }
+.nav-links a { display: grid; align-items: center; min-height: 36px; white-space: nowrap; }
+.nav-links a:hover { color: var(--vermillion); text-decoration: underline; text-underline-offset: .35em; }
+.chapter {
+  scroll-margin-top: 4.1rem;
+  padding: clamp(3rem,6vw,6.1rem) 0;
+  --chapter-art-size: 100% clamp(23rem,56vw,67rem);
+  background-image: linear-gradient(180deg,#f3ebdf69 0%,#f3ebdf63 44%,var(--paper) 100%), var(--chapter-bg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: var(--chapter-art-size), var(--chapter-art-size);
+  border-bottom: 1px solid var(--line);
+}
+.wrap { width: min(90%,1200px); margin-inline: auto; }
+.intro { --chapter-bg: url("assets/design/interior/ink-01.webp"); }
+.films { --chapter-bg: url("assets/design/interior/ink-11.webp"); }
+.haidian { --chapter-bg: url("assets/design/interior/ink-05.webp"); }
+.students { --chapter-bg: url("assets/design/interior/ink-22.webp"); }
+.ink-section { position: relative; isolation: isolate; }
+.ink-backdrop {
+  position: absolute;
+  inset: 0 0 auto;
+  z-index: -1;
+  width: 100%;
+  height: min(100%, clamp(18rem,46vw,42rem));
+  object-fit: cover;
+  object-position: center 35%;
+  opacity: .40;
+  mask-image: linear-gradient(180deg, transparent, #000 20%, #000 48%, transparent 100%);
+  pointer-events: none;
+}
+.film-group { padding: 1.15rem clamp(.6rem,2vw,1.5rem) 1.25rem; }
+.film-group .subheading { margin-top: 0; }
+.theme-group + .theme-group { margin-top: clamp(2.4rem,6vw,5rem); }
+.theme-heading {
+  display: flex;
+  align-items: center;
+  min-height: clamp(7rem,15vw,13rem);
+  margin-bottom: clamp(1rem,2.4vw,2rem);
+  padding: 1rem clamp(1rem,4vw,3rem);
+  overflow: hidden;
+  border-block: 1px solid #8c37285c;
+  background: #eee1cb;
+}
+.theme-heading .ink-backdrop {
+  height: 100%;
+  object-position: center 48%;
+  mask-image: linear-gradient(90deg,#0005,#000 45%);
+}
+.theme-heading .subheading {
+  margin: 0;
+  padding: .25rem .65rem;
+  border: 0;
+  background: #f3ebdfb8;
+}
+.video-label, .artist-meta, .work figcaption { background-color: #f3ebdfdd; }
+.video-label, .work figcaption { padding-inline: .55rem; }
+.artist-meta { padding-inline: .65rem; padding-bottom: .55rem; }
+.chapter-heading { margin: 0 0 clamp(1.7rem,4vw,3.2rem); }
+.chapter-number { display: flex; align-items: center; gap: .75rem; color: var(--vermillion); margin: 0 0 .55rem; font: 1.1rem Georgia,serif; }
+.chapter-number::before { content: ""; width: 2rem; border-top: 1px solid currentColor; }
+.chapter h2 { font: 400 clamp(2.7rem,5.1vw,5.2rem)/1.07 var(--serif); letter-spacing: .08em; margin: 0; }
+.intro-layout { display: grid; grid-template-columns: minmax(10rem,.7fr) minmax(0,1.65fr); align-items: center; gap: 4%; }
+.intro-layout .chapter-heading { margin-bottom: 0; }
+.subheading { font: 400 clamp(1.55rem,2.5vw,2.4rem) var(--serif); margin: 2.2rem 0 1rem; padding-bottom: .6rem; border-bottom: 1px solid var(--line); }
+.video-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 1.25rem; }
+.behind-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+.video-card { display: block; min-width: 0; width: 100%; padding: 0; border: 0; background: transparent; text-align: left; cursor: pointer; }
+.video-frame { display: grid; place-items: center; position: relative; aspect-ratio: 16/9; background: #222725; }
+.video-frame img { width: 100%; height: 100%; min-height: 0; object-fit: contain; grid-area: 1/1; }
+.play { grid-area: 1/1; display: grid; place-items: center; z-index: 1; width: 3.1rem; height: 3.1rem; border-radius: 50%; background: #fbf5e9; color: #271f19; box-shadow: 0 2px 14px #0004; }
+.play::after { content: ""; margin-left: .17em; border-left: .71rem solid currentColor; border-top: .46rem solid transparent; border-bottom: .46rem solid transparent; }
+.video-label { display: flex; align-items: baseline; justify-content: space-between; gap: .45rem; padding: .6rem 0 .9rem; }
+.video-label strong { font-weight: 750; }
+.video-label small { flex: none; color: var(--muted); font-variant-numeric: tabular-nums; }
+.theme-gallery { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: clamp(1rem,2.3vw,2.4rem); align-items: start; }
+.work { min-width: 0; margin: 0; }
+.work button { display: grid; place-items: center; width: 100%; background: transparent; border: 0; padding: 0; cursor: zoom-in; }
+.work img { width: min(100%, var(--work-width), calc(66vh * var(--work-ratio))); height: auto; aspect-ratio: var(--work-ratio); object-fit: contain; box-shadow: 0 1px 6px #392b221a; }
+.theme-gallery .work button { height: clamp(125px,20vw,280px); }
+.theme-gallery .work img { width: min(100%, var(--work-width), calc(clamp(125px,20vw,280px) * var(--work-ratio))); }
+.work figcaption { text-align: center; padding-top: .7rem; color: var(--muted); font-size: .89rem; overflow-wrap: anywhere; }
+.artist-directory { margin-bottom: 2rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: .8rem 0; }
+.artist-directory summary { width: fit-content; cursor: pointer; font-size: .95rem; }
+#artist-index { margin-top: .85rem; padding: 0 clamp(.65rem,2vw,1.25rem); background: #fbf5ebe8; }
+.artist-index-row { display: grid; grid-template-columns: 2.25rem minmax(0,1fr); gap: .55rem; align-items: start; padding: .55rem 0; }
+.artist-index-row + .artist-index-row { border-top: 1px solid var(--line); }
+.artist-index-letter { color: var(--vermillion); font: 700 1.15rem/2rem Georgia, serif; }
+.artist-index-names { display: flex; flex-wrap: wrap; gap: .35rem .55rem; }
+.artist-index-names a { display: block; padding: .35rem .55rem; text-decoration: none; white-space: nowrap; }
+.artist-index-names a:hover, .artist-index-names a:focus-visible { color: var(--vermillion); background: #ead9c6; text-decoration: underline; text-underline-offset: .2em; }
+.portfolio {
+  display: grid;
+  grid-template-columns: minmax(0,1fr) minmax(8rem,21%);
+  gap: clamp(1rem,4vw,3.5rem);
+  margin-bottom: clamp(1rem,2.8vw,2.4rem);
+  padding: clamp(1.4rem,3.5vw,3.5rem);
+  border: 1px solid var(--line);
+  scroll-margin-top: 4.1rem;
+  background: var(--paper);
+}
+.portfolio .ink-backdrop {
+  height: 100%;
+  object-position: 70% center;
+  mask-image: none;
+}
+.portfolio .artist-works {
+  background: #f3ebdfb8;
+  padding: clamp(.5rem,1.6vw,1.25rem);
+}
+.portfolio:nth-child(even) { grid-template-columns: minmax(8rem,21%) minmax(0,1fr); }
+.portfolio:nth-child(odd) .artist-meta { grid-column: 2; grid-row: 1; }
+.portfolio:nth-child(odd) .artist-works { grid-column: 1; grid-row: 1; }
+.artist-meta h3 { font: 700 clamp(1.45rem,2.7vw,2.7rem)/1.25 var(--serif); margin: 0 0 .5rem; }
+.artist-meta p { color: var(--muted); font-size: .93rem; margin: 0; }
+.artist-meta { border-top: 2px solid #874736; padding-top: .65rem; align-self: start; }
+.artist-works { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.35rem; align-items: start; }
+.artist-works .work:first-child { grid-column: 1/-1; }
+.artist-works .work:not(:first-child) img { width: min(100%, var(--work-width), calc(48vh * var(--work-ratio))); }
+.footer { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; justify-content: center; padding: 2rem 5%; color: var(--muted); font-size: .87rem; }
+.footer p { margin: 0; }
+.footer a { text-underline-offset: .22em; }
+dialog { border: 0; padding: 0; max-width: min(96vw,1240px); max-height: 94dvh; color: #f5efe6; background: #22201d; }
+dialog::backdrop { background: #171514d9; }
+body:has(dialog[open]) { overflow: hidden; }
+.viewer-bar { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .3rem .65rem .3rem 1rem; }
+.viewer-bar h2 { font: 1rem var(--body); margin: 0; }
+.close { width: 44px; height: 44px; border: 0; background: transparent; font-size: 1.9rem; cursor: pointer; }
+#viewer-content { display: grid; place-items: center; }
+#viewer-content img, #viewer-content video { display: block; max-width: 100%; max-height: calc(94dvh - 52px); object-fit: contain; }
+#viewer-content video { width: min(92vw,1040px); background: #151515; }
+#viewer-content p { padding: 0 1rem 1rem; }
+@media (max-width: 680px) {
+  .cover { aspect-ratio: 4/5; background: #ebd7b3 url("assets/design/cover.webp") 13% center / cover no-repeat; }
+  .cover-title { top: 19%; left: 8%; width: 62%; }
+  .subtitle { font-size: clamp(1.1rem,5.3vw,1.8rem); }
+  .organizer { font-size: clamp(.63rem,2.6vw,.92rem); }
+  .navigation { padding: .45rem 4%; gap: .65rem; }
+  .brand img { width: 25px; height: 25px; }
+  .brand span { display: none; }
+  .nav-links { flex: 1; justify-content: space-between; font-size: clamp(.7rem,3.1vw,.9rem); }
+  .intro-layout { display: block; }
+  .intro-layout .chapter-heading { margin-bottom: 1.25rem; }
+  .video-grid, .behind-grid { grid-template-columns: repeat(2,minmax(0,1fr)); gap: .75rem; }
+  .play { width: 2.3rem; height: 2.3rem; }
+  .video-label { font-size: .85rem; }
+  .theme-gallery { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .theme-gallery .work button { height: clamp(95px,36vw,220px); }
+  .theme-gallery .work img { width: min(100%, var(--work-width), calc(clamp(95px,36vw,220px) * var(--work-ratio))); }
+  .portfolio, .portfolio:nth-child(even) { grid-template-columns: 1fr; }
+  .portfolio:nth-child(odd) .artist-meta, .portfolio:nth-child(odd) .artist-works { grid-column: auto; grid-row: auto; }
+  .artist-meta { width: fit-content; min-width: 6rem; }
+  .artist-works { grid-template-columns: 1fr; }
+  .artist-works .work:not(:first-child) img { width: min(100%, var(--work-width), calc(66vh * var(--work-ratio))); }
+  .chapter { --chapter-art-size: auto clamp(23rem,106vw,37rem); }
+}
+@media (max-width: 345px) {
+  .video-grid, .behind-grid { grid-template-columns: 1fr; }
+}
+
+
+
